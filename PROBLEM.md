@@ -42,9 +42,12 @@ The disorganization can make job searching very overwhelming and stressful for s
 >
 > "This is actually a tame problem" is a valid verdict when the reasoning is sound.
 
-*(your analysis here)*
+*> • Not easily possible to formulate a problem statement: The problem arrises from numerous avenues from actual organization to the systems.
+> • No stopping rule: Job applying is a never-ending process, at least until the ideal job is secured.
+> • Solutions are good or bad: It is more opinionated on if a solution to the job application process is good/bad, versus an actual fact.
+> • Wicked problems may be a symptom of another problem: Difficulty and stress related to problem stem from overarching problem of disorganization and stress during job search.*
 
-**Verdict:**
+**Verdict: This is a wicked problem because job searching lacks fixed boundaries, has unclear stopping rules, and is not simply answered by true or false.**
 
 ---
 
@@ -54,11 +57,11 @@ The disorganization can make job searching very overwhelming and stressful for s
 > Three DISTINCT problem statements for the same situation. The test: a reader should
 > not be able to swap two of them without changing what would get built.
 
-**Framing A (the obvious one):**
+**Framing A (the obvious one): I spend hours tracking job applications, deadlines, and tailoring resumes across platforms like LinkedIn and career sites, leading to disorganization and missed opportunities.**
 
-**Framing B (stakeholder shift):**
+**Framing B (stakeholder shift): University career centers and campus recruiters have lots of students to assist and can't help with all types of job related problems preventing them from always providing personal assistance to improve job success.**
 
-**Framing C (goal shift):**
+**Framing C (goal shift): Students want to see the return on effort for their job searching without feeling overwhelmed or burn out going through the process of applying.**
 
 ---
 
@@ -82,9 +85,9 @@ The disorganization can make job searching very overwhelming and stressful for s
 > You already assumed a tool. Everyone does. Name it honestly, then state what would
 > have to be true about your problem for that tool to be the justified choice.
 
-**The tool I already assumed:**
+**The tool I already assumed: LinkedIn**
 
-**What would have to be true for it to be justified:**
+**What would have to be true for it to be justified: If the problem was only the tiring repetition of the process of applying. However, the issue also stems from having to go through numerous platforms to apply or find roles. Also, knowing where to find success in securing a role; specifically with what activities actually have a positive output.**
 
 ---
 
@@ -103,4 +106,4 @@ The disorganization can make job searching very overwhelming and stressful for s
 > One or two sentences: what you used AI for on this assignment, if anything.
 > Write "none" if you did not use any.
 
-*(your note here)*
+*I used Gemini to read through the instructions if any part wasn't super clear to me, to give me more detail on what exactly each step needed in response.*
