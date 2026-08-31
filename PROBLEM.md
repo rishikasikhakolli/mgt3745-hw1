@@ -43,11 +43,14 @@ The disorganization can make job searching very overwhelming and stressful for s
 > "This is actually a tame problem" is a valid verdict when the reasoning is sound.
 
 **• Not easily possible to formulate a problem statement:** *The problem arrises from numerous avenues from actual organization to the systems.*
+
 **• No stopping rule:** *Job applying is a never-ending process, at least until the ideal job is secured.*
+
 **• Solutions are good or bad:** *It is more opinionated on if a solution to the job application process is good/bad, versus an actual fact.*
+
 **• Wicked problems may be a symptom of another problem:** *Difficulty and stress related to problem stem from overarching problem of disorganization and stress during job search.*
 
-**Verdict: This is a wicked problem because job searching lacks fixed boundaries, has unclear stopping rules, and is not simply answered by true or false.**
+**Verdict:** *This is a wicked problem because job searching lacks fixed boundaries, has unclear stopping rules, and is not simply answered by true or false.*
 
 ---
 
