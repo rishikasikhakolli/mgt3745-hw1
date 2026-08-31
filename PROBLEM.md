@@ -33,7 +33,7 @@ land early-career opportunities.*
 ## 3. Three Framings  
 `30 pts`
 
-**Framing A (the obvious one):** *A student spends hours tracking job applications, deadlines, and tailoring resumes across platforms, leading to disorganization, missed opportunities, and probably burnout.*
+**Framing A (the obvious one):** *Student spend hours tracking job applications, deadlines, and tailoring resumes across platforms, leading to disorganization, missed opportunities, and probably burnout.*
 
 **Framing B (stakeholder shift):** *Employers and campus recruiters can't reach all of the best candidates due to the amount of applications, espeically with numerous people cold and mass applying versus putting in true effort.*
 
@@ -46,9 +46,9 @@ land early-career opportunities.*
 
 **Chosen framing:** *C: Goal Shift*
 
-**Why:** *Framing C focuses on burnout and the return on time investment in job searching by focusing on optimizing effort rather than just improvising organization. In addition, the problem focuses on quantifying how you are applying to jobs, so time you spend networking or fixing your resume for the role so you can see if and when success is apparent from those efforts. Also, it would tackles targeting role filtering (major, year, interests), to make sure you're not wasting time reading through jobs.
+**Why:** *Framing C focuses on burnout and the return on time investment in job searching by focusing on optimizing effort rather than just improvising organization. In addition, the problem focuses on quantifying how you are applying to jobs, so time you spend networking or fixing your resume for the role so you can see if and when success is apparent from those efforts. Also, it would tackles targeting role filtering (major, year, interests), to make sure you're not wasting time reading through jobs.*
 
-**What this framing makes invisible:** *It isn't about the fact that you have to use multiple tools to find jobs, but to make sure you're able to understand the output of what you are doing as well as make the process easier. *
+**What this framing makes invisible:** *It isn't about the fact that you have to use multiple tools to find jobs, but to make sure you're able to understand the output of what you are doing as well as make the process easier.*
 
 ---
 
