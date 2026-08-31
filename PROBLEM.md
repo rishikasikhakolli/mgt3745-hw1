@@ -1,7 +1,7 @@
 # HW1: Reframing a Wicked Problem
 
-**Name:**
-**Date:**
+**Name: Rishika Sikhakolli**
+**Date: 08/31/2026**
 
 > Replace every instruction block below with your own writing. Delete the instructions as you go.
 > Target length: about 700 words total. No code required. Worth 100 points.
