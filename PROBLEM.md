@@ -22,7 +22,9 @@
 > Two sentences. One problem from your own experience: your major, a job, a campus
 > process, a family business, a team. Pick something you actually care about.
 
-*(your problem here)*
+*Job searching is a long and arduous process that requires dozens of tabs and websites
+including networking websites like LinkedIn and Handshake and actual company portals too.
+The disorganization can make job searching very overwhelming and stressful for students.*
 
 ---
 
