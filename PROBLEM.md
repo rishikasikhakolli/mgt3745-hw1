@@ -34,7 +34,7 @@
 
 **Framing B (stakeholder shift):** *People who want to travel have to go to social sites like Instagram or travel sites to learn about places to travel, but can't get small recommendations especially from friends.*
 
-**Framing C (goal shift):** *People think about their travel well after a trip, but are often just scrolling through their photos on their phone or a 10 picture carousel on a social website.*
+**Framing C (goal shift):** *Travelers lack a low stakes way to capture memories and think about their trips for personal reflection, leaving their best travel moments buried in camera rolls or constrained to social media parameters.*
 
 ---
 
@@ -54,7 +54,7 @@
 
 **The tool I already assumed:** *Beli*
 
-**What would have to be true for it to be justified:** *The tool I assumed is not necessarily related to travel, but food. It does similar things, casual food sharing, short reviews, mostly your friends are seeing your reviews and reacting to them. However, they inherently have different purposes.*
+**What would have to be true for it to be justified:** *The tool I assumed is not necessarily related to travel, but food. It does similar things, casual food sharing, short reviews, mostly your friends are seeing your reviews and reacting to them. However, they inherently have different purposes. The ranking system is something I mainly was considering as Beli being very similar, as well as short-form reviews.*
 
 ---
 
