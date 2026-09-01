@@ -1,43 +1,40 @@
 # HW1: Reframing a Wicked Problem
 
 **Name: Rishika Sikhakolli**
-**Date: 08/31/2026**
+**Date: 09/01/2026**
 
 ---
 
 ## 1. Candidate Problem  
 `20 pts`
 
-*Job searching is a long and arduous process that requires dozens of tabs and websites
-including networking websites like LinkedIn and actual company portals too.
-The disorganization can make job searching very stressful making it overwhelming for students to optimize their time or 
-land early-career opportunities.*
+*Traveling is one of people's most beloved hobbies, and is a time where they are constantly taking pictures to share with the world. However, in this day and age, social media is more judgemental of the content you post. Certain platforms are too formal, while others are too serious.*
 
 ---
 
 ## 2. Wickedness Test  
 `25 pts`
 
-**• Not easily possible to formulate a problem statement:** *The problem arrises from numerous avenues from actual organization to the systems. Also, filtering through jobs listings can be very inefficient and time consuming.*
+**• Not easily possible to formulate a problem statement:** *The issue arrises from different perspectives and is not clear what the actual problem is: casual vs serious sharing and recommendation bias from review sites.*
 
-**• No stopping rule:** *There is no operational boundary for when a student is done job searching, since you could keep changing your resume, interests, talk to more people and send in more applications.*
+**• No stopping rule:** *Traveling can be something that is continued for your entire lifetime, so there is no end. Same with social media, you can continue posting forever.*
 
-**• Solutions are good or bad:** *It is more opinionated on if a solution to the job application process is good/bad, versus an actual fact.*
+**• Solutions are good or bad:** *When a person posts a place or picture, it is never true or false, but a subjective opinion of it; same with a review being opinionated.*
 
-**• Wicked problems may be a symptom of another problem:** *Difficulty and stress related to problem stem from overarching problem of disorganization and stress during job search.*
+**• Wicked problems may be a symptom of another problem:** *Travel apps are mostly places to review for others to see, there are ads and reviews that don't feel real and professional seeming photos that get rid of the social media feel.*
 
-**Verdict:** *This is a wicked problem because job searching lacks fixed boundaries, has unclear stopping rules, and is not simply answered by true or false.*
+**Verdict:** *This is a wicked problem because travel preferences are subjective and platforms can only give opinions to a traveler without objectively solving it.*
 
 ---
 
 ## 3. Three Framings  
 `30 pts`
 
-**Framing A (the obvious one):** *Student spend hours tracking job applications, deadlines, and tailoring resumes across platforms, leading to disorganization, missed opportunities, and probably burnout.*
+**Framing A (the obvious one):** *People don't have a casual place to upload pictures from traveling in a way that is extremely low stakes.*
 
-**Framing B (stakeholder shift):** *Employers and campus recruiters can't reach all of the best candidates due to the amount of applications, espeically with numerous people cold and mass applying versus putting in true effort.*
+**Framing B (stakeholder shift):** *People who want to travel have to go to social sites like Instagram or travel sites to learn about places to travel, but can't get small recommendations especially from friends.*
 
-**Framing C (goal shift):** *Students don't have a way to evaluate their return on effort (whether is be editing resumes, networking, mass applying) while also not knowing exactly what they are best equipped to apply for.*
+**Framing C (goal shift):** *People think about their travel well after a trip, but are often just scrolling through their photos on their phone or a 10 picture carousel on a social website.*
 
 ---
 
@@ -46,28 +43,28 @@ land early-career opportunities.*
 
 **Chosen framing:** *C: Goal Shift*
 
-**Why:** *Framing C focuses on burnout and the return on time investment in job searching by focusing on optimizing effort rather than just improvising organization. In addition, the problem focuses on quantifying how you are applying to jobs, so time you spend networking or fixing your resume for the role so you can see if and when success is apparent from those efforts. Also, it would tackles targeting role filtering (major, year, interests), to make sure you're not wasting time reading through jobs.*
+**Why:** *Framing C focuses on the user motivation to reminisce on their travels in a low effort and quick way versus searching through thousands of photos or being limited to a small amount of them. With small reviews associated with the images, each image holds a bit of nostalgia too. It's a website for you as much as other users, but it is a place to share casually more than anything.*
 
-**What this framing makes invisible:** *It isn't about the fact that you have to use multiple tools to find jobs, but to make sure you're able to understand the output of what you are doing as well as make the process easier.*
+**What this framing makes invisible:** *By focusing on the memories and casual nature, it doesn't consider the monetary aspect of reviews on the places you're traveling as much as well as the strictness to "look perfect" that most social platforms do.*
 
 ---
 
 ## 5. Oath Check  
 `15 pts`
 
-**The tool I already assumed:** *LinkedIn*
+**The tool I already assumed:** *Beli*
 
-**What would have to be true for it to be justified:** *If the problem was only the tiring repetition of the process of applying. However, the issue also stems from having to go through numerous platforms to apply or find roles. Also, knowing where to find success in securing a role; specifically with what activities actually have a positive output.*
+**What would have to be true for it to be justified:** *The tool I assumed is not necessarily related to travel, but food. It does similar things, casual food sharing, short reviews, mostly your friends are seeing your reviews and reacting to them. However, they inherently have different purposes.*
 
 ---
 
 ## 6. Adequacy Sketch  
 `10 pts`
 
-*A system that tracks job search activities and gives feedback on how the process you went about that application is (how much effort is involved). Also a way to find jobs that are best for you easily, a filtering system on websites to make sure you are qualified and should apply to specific jobs.*
+*It would look like an application where people can choose a location in a search bar/map, input photos of that place, include images of a monument they visited or an activity they did (for example) and review and rank the places in that location/city against all the things they did there.*
 
 ---
 
 ## AI Use Note
 
-*I used Gemini to read through the instructions if any part wasn't super clear to me, to give me more detail on what exactly each step needed in response.*
+*I used Gemini to read through the instructions if any part wasn't super clear to me, to give me more detail on what exactly each step was asking.*
